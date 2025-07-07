@@ -38,9 +38,11 @@ This project focuses on extracting and analyzing insights from earnings call tra
 
 ## Future Work
 
-- Add sector-wide analysis with more companies
-- Deploy a dashboard for real-time transcript analysis
-- Explore fine-tuning models for company-specific language
+Since there is a lot of fine-tuning involved, to bring it to real use, we are still working on new strategies, approaches and better models. Few of them are listed below:
+
+- Add sector-wide analysis with more companies to analyze a sector as a whole rather than a company alone.
+- Deploy a dashboard for real-time transcript analysis.
+- Explore fine-tuning models for company-specific language and more accurate results.
 
 Please explore the final codebase file and the results to know more!
 
